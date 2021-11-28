@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TextifySample2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D0392F547F44AFF885BAC5AC01E3B77 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1087DB606DA149118CAB29C94F478D3E }}
